@@ -7,7 +7,7 @@
       "Addresses": {
         "Swarm": [
           "/dns4/external5.ddns.peelvalley.com.au/tcp/4002/wss/p2p/QmWQTdvmQRNBiuT6auweksJBBhQq2R1isPSS43euY1Rwb7/p2p-circuit",
-          "/dns4/io5.peelvalley.com.au/tcp/4002/wss/p2p/QmZJ8U9CpdgY5PFdMYpJSmdqLVk1rBYKrceoTvMiNXaWyp"
+          "/dns4/io5.peelvalley.com.au/tcp/4002/wss/p2p/QmZJ8U9CpdgY5PFdMYpJSmdqLVk1rBYKrceoTvMiNXaWyp/p2p-circuit"
         ]
       },
       "relay": {
