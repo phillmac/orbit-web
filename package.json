@@ -8,7 +8,8 @@
     "dev": "npm run start",
     "lint": "eslint src/ test/",
     "lint:fix": "eslint --fix src/ test/",
-    "start": "webpack-dev-server --mode=development --http --public \"$(gp url 8001 | sed 's+https://++'):443\"",
+    "start": "webpack-dev-server --mode=development",
+    "start-gitpod": "webpack-dev-server --mode=development --http --public \"$(gp url 8001 | sed 's+https://++'):443\"",
     "test-server": "http-server ./dist -s -p 8088",
     "test": "npm run lint && jest --runInBand"
   },
@@ -40,7 +41,7 @@
     "emoji-mart": "^2.9.1",
     "highlight.js": "^10.4.1",
     "i18next": "^17.0.16",
-    "ipfs": "^0.37.1",
+    "ipfs": "^0.52.3",
     "lodash.debounce": "^4.0.8",
     "mobx": "^5.13.0",
     "mobx-react": "^6.1.3",
