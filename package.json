@@ -41,7 +41,7 @@
     "emoji-mart": "^2.9.1",
     "highlight.js": "^10.4.1",
     "i18next": "^17.0.16",
-    "ipfs": "^0.52.3",
+    "ipfs": "^0.54.4",
     "lodash.debounce": "^4.0.8",
     "mobx": "^5.13.0",
     "mobx-react": "^6.1.3",
